@@ -1,2 +1,1 @@
-
-This directory contains files related to Vagrant.
+another readme file
